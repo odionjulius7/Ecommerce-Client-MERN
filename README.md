@@ -1,7 +1,7 @@
 # Linking to email and to call app for emails and numbers through a tag
 
-<a href="tel:+234 8125461587">+234 8125461587</a>
-<a href="mailto:odionjulius7@gmail.com">odionjulius7@gmail.com</a>
+<a href="tel:+234 8125461587>+234 8125461587</a>
+<a href="mailto:odionjulius7@gmail.com>odionjulius7@gmail.com</a>
 
 ### `npm run eject`
 
